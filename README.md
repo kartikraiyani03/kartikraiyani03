@@ -1,7 +1,7 @@
 ![logo](https://github.com/kartikraiyani03/kartikraiyani03/blob/main/Hey.png)
 <h1 align="center">Hi 👋, I'm Kartik Raiyani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F123215739790848484%2F&psig=AOvVaw0E8gSndrTyL_2tNYzlR9zw&ust=1682283941080000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjx75eyvv4CFQAAAAAdAAAAABA_">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikraiyani03&label=Profile%20views&color=0e75b6&style=flat" alt="kartikraiyani03" /> </p>
 
