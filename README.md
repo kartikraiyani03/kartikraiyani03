@@ -40,4 +40,6 @@
 <br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
