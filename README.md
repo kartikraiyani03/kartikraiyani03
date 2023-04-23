@@ -1,11 +1,13 @@
-![logo](https://github.com/kartikraiyani03/kartikraiyani03/blob/main/Hey.png)
+![logo](https://github.com/kartikraiyani03/kartikraiyani03/blob/main/Hey.png) -->
+
 <h1 align="center">Hi 👋, I'm Kartik Raiyani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="390" src="https://img.etimg.com/thumb/height-450,width-600,imgsize-638053,msid-84146056/.jpg">
+<img align="right" alt="Coding" width=350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikraiyani03&label=Profile%20views&color=0e75b6&style=flat" alt="kartikraiyani03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikraiyani03" alt="kartikraiyani03" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kartikraiyani03" target="blank"><img src="https://img.shields.io/twitter/follow/kartikraiyani03?logo=twitter&style=for-the-badge" alt="kartikraiyani03" /></a> </p>
 
 - 🌱 I’m currently learning **CSS**
 
@@ -28,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikraiyani03&show_icons=true&locale=en" alt="kartikraiyani03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikraiyani03&" alt="kartikraiyani03" /></p>
+
