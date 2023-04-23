@@ -1,6 +1,8 @@
 ![logo](https://github.com/kartikraiyani03/kartikraiyani03/blob/main/Hey.png) -->
 
 <h1 align="center">Hi 👋, I'm Kartik Raiyani</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="600"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
