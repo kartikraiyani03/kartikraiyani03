@@ -47,9 +47,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-                <br/>
+![](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+<br/>
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kartikraiyani03&theme=midnight-purple&hide_border=false)<br/>
-
+<br/>
+<br/>
+<br/>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
