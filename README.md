@@ -1,4 +1,4 @@
-![logo](https://github.com/kartikraiyani03/kartikraiyani03/blob/main/Hey.png) -->
+![logo](https://github.com/kartikraiyani03/kartikraiyani03/blob/main/Hey.png) 
 
 <h1 align="center">Hi 👋, I'm Kartik Raiyani</h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -50,7 +50,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 <br/>
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kartikraiyani03&theme=midnight-purple&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)
 <br/>
 <br/>
 <br/>
