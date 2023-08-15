@@ -47,7 +47,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+![kartikraiyani03's Stats](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 <br/>
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)
