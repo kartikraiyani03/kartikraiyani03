@@ -52,9 +52,6 @@
 <br/>
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)
-<br/>
-<br/>
-<br/>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
