@@ -40,12 +40,14 @@
 </a><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5" width="40" height="40"  alt=""></a><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     height="40" alt=""></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="javascript" width="35" height="35"  alt=""></a> <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" alt=""></a><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-    width="40" height="40" alt=""></a><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" rel="noreferrer" alt=""></a></p>
+    width="40" height="40" alt=""></a><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" rel="noreferrer" alt=""></a></a>
+</p>
                 <br/>
 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
 ![kartikraiyani03's Stats](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 <br/>
