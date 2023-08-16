@@ -18,15 +18,14 @@
 <br>
 
 
-## 🌐 Socials: 
-
-<p align="left">
-<a href="https://twitter.com/kartikraiyani03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikraiyani03" height="30" width="40" /></a>
+## 🌐 Socials:
+<p align="left"><a href="https://twitter.com/kartikraiyani03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikraiyani03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kartikraiyani03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartikraiyani03/" height="30" width="40" /></a>
 <a href="https://fb.com/kartikraiyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kartikraiyani" height="30" width="40" /></a>
 <a href="https://instagram.com/kartik_raiyani_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik_raiyani_03" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kartikraiyani03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kartikraiyani03/" height="30" width="40" /></a>
-  <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="40" width="40" /></a>
+  <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="40" width="40"/></a>
+ <a href="https://replit.com/@raiyanikartik43"><img src="download.png" height="40" width="40" alt=""></a>
 </p>
 <br>
 
