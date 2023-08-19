@@ -44,8 +44,14 @@
 </p>
                 <br/>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&layout=compact&theme=midnight-purple)
+<br>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&show_icons=true&theme=midnight-purple)
+<br>
+<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)
 
 
