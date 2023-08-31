@@ -51,9 +51,8 @@
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&show_icons=true&theme=midnight-purple)
 <br>
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)
-
+  <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)-->
+[![](https://github-readme-streak-stats.herokuapp.com?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
