@@ -46,10 +46,10 @@
 
 # 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&layout=compact&theme=midnight-purple&langs_count=10)
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&show_icons=true&theme=midnight-purple)
+![](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&show_icons=true&theme=midnight-purple)
 <br>
   <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)-->
 [![](https://github-readme-streak-stats.herokuapp.com?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)
