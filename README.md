@@ -46,12 +46,14 @@
 
 # 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&layout=compact&theme=midnight-purple&langs_count=10)
+
+![kartikraiyani03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 <br>
 <br>
-![](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&show_icons=true&theme=midnight-purple)
+![kartikraiyani03's Stats](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&cardType=github&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 <br>
-  <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)-->
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)-->
 [![](https://github-readme-streak-stats.herokuapp.com?user=kartikraiyani03&theme=midnight-purple)](https://git.io/streak-stats)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
