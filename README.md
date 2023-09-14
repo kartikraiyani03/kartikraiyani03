@@ -47,7 +47,7 @@
 # 📊 GitHub Stats
 
 
-![kartikraiyani03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+![kartikraiyani03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikraiyani03&langs_count=8&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 <br>
 <br>
 ![kartikraiyani03's Stats](https://github-readme-stats.vercel.app/api?username=kartikraiyani03&cardType=github&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
