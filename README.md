@@ -1,4 +1,3 @@
-## About Me
 <img src="./Hey.png" />
 
 ## 🌐 Socials:
