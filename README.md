@@ -8,14 +8,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikraiyani03)
 [![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1220)](https://kartikraiyani03.github.io/PortfolioPro/)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiyanikartik43@gmail.com)
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikraiyani.dev@gmail.com)
 [![X](https://img.shields.io/badge/X-0B1220?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kartikraiyani03)
 
 </div>
 
 ---
 
-<img align="right" src="./assets/kartik.png" alt="Kartik Raiyani" width="230" />
+<img align="right" src="./assets/kartik-avatar.svg" alt="Kartik Raiyani" width="240" />
 
 ### `// SYSTEMS I BUILD`
 
@@ -207,14 +207,6 @@ Projects from 2024 and earlier. Kept for the arc, not presented as current work.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikraiyani03&bg_color=0B1220&color=22D3EE&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="./assets/orb.svg" alt="" width="110" />
 
 ### 💬 Let's build something
@@ -224,7 +216,7 @@ or why your distributed job keeps running twice.
 
 **Open to:** backend & AI engineering roles · technical collaboration · talking shop
 
-[![Email](https://img.shields.io/badge/raiyanikartik43@gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:raiyanikartik43@gmail.com)
+[![Email](https://img.shields.io/badge/kartikraiyani.dev@gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:kartikraiyani.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikraiyani03)
 
 📍 Surat, India
