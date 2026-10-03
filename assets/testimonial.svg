@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Personal quote card">
+  <defs>
+    <linearGradient id="tBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#101B33"/>
+    </linearGradient>
+
+    <linearGradient id="tSweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="45%"  stop-color="#22D3EE" stop-opacity="1"/>
+      <stop offset="55%"  stop-color="#A5F3FC" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+      <animate attributeName="x1" values="-60%;100%;-60%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;160%;0%"    dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="tGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <pattern id="tGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E3A8A" stroke-width="0.5" opacity="0.25"/>
+    </pattern>
+  </defs>
+
+  <!-- card -->
+  <rect x="4" y="4" width="892" height="212" rx="14" fill="url(#tBg)"/>
+  <rect x="4" y="4" width="892" height="212" rx="14" fill="url(#tGrid)"/>
+  <rect x="4" y="4" width="892" height="212" rx="14" fill="none"
+        stroke="#1E3A8A" stroke-width="1.4" opacity="0.8"/>
+
+  <!-- animated border sweep -->
+  <rect x="4" y="4" width="892" height="212" rx="14" fill="none"
+        stroke="url(#tSweep)" stroke-width="2.2" filter="url(#tGlow)"/>
+
+  <!-- accent bar -->
+  <rect x="4" y="4" width="5" height="212" rx="2.5" fill="#22D3EE" filter="url(#tGlow)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- quote mark -->
+  <text x="46" y="92" font-family="Georgia,serif" font-size="88" fill="#22D3EE" opacity="0.28">&#8220;</text>
+
+  <!-- quote lines, revealed in sequence -->
+  <g font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="19" fill="#CBD5E1">
+    <text x="104" y="74" opacity="0">
+      Never stop learning, never stop questioning,
+      <animate attributeName="opacity" values="0;0;1;1;1;0" dur="12s" repeatCount="indefinite" keyTimes="0;0.05;0.15;0.88;0.95;1"/>
+    </text>
+    <text x="104" y="104" opacity="0">
+      and never settle for the person you were yesterday.
+      <animate attributeName="opacity" values="0;0;1;1;1;0" dur="12s" repeatCount="indefinite" keyTimes="0;0.12;0.22;0.88;0.95;1"/>
+    </text>
+  </g>
+
+  <!-- attribution -->
+  <g opacity="0">
+    <circle cx="116" cy="158" r="15" fill="none" stroke="#22D3EE" stroke-width="1.4" opacity="0.8"/>
+    <circle cx="116" cy="153" r="5"  fill="#22D3EE" opacity="0.7"/>
+    <path d="M106,167 C106,160 110,157 116,157 C122,157 126,160 126,167"
+          fill="none" stroke="#22D3EE" stroke-width="1.4" opacity="0.7"/>
+    <text x="144" y="154" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif"
+          font-size="16" font-weight="600" fill="#E2E8F0">— Kartik Raiyani</text>
+    <text x="144" y="175" font-family="'JetBrains Mono','Fira Code',monospace"
+          font-size="12.5" letter-spacing="1" fill="#64748B">SOFTWARE ENGINEER</text>
+    <animate attributeName="opacity" values="0;0;1;1;1;0" dur="12s" repeatCount="indefinite" keyTimes="0;0.22;0.32;0.88;0.95;1"/>
+  </g>
+
+  <!-- corner ticks -->
+  <g stroke="#22D3EE" stroke-width="1.6" fill="none" opacity="0.55">
+    <path d="M864,18 L882,18 L882,36"/>
+    <path d="M864,202 L882,202 L882,184"/>
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite"/>
+  </g>
+</svg>

@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Kartik Raiyani — Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05080F"/>
+      <stop offset="55%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#101B33"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A5F3FC"/>
+      <stop offset="40%" stop-color="#22D3EE"/>
+      <stop offset="75%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#A5F3FC"/>
+      <animate attributeName="x1" values="-100%;0%;-100%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%;0%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="strong" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#1E3A8A" stroke-width="0.6" opacity="0.28"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- ===== node network ===== -->
+  <g stroke="#22D3EE" stroke-width="0.9" opacity="0.4">
+    <line x1="70" y1="86" x2="196" y2="150"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="5s" repeatCount="indefinite"/></line>
+    <line x1="196" y1="150" x2="118" y2="248"><animate attributeName="opacity" values="0.6;0.12;0.6" dur="6.5s" repeatCount="indefinite"/></line>
+    <line x1="196" y1="150" x2="330" y2="78"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="7.5s" repeatCount="indefinite"/></line>
+    <line x1="330" y1="78" x2="300" y2="236"><animate attributeName="opacity" values="0.7;0.15;0.7" dur="5.5s" repeatCount="indefinite"/></line>
+    <line x1="1130" y1="90" x2="1004" y2="156"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="6s" repeatCount="indefinite"/></line>
+    <line x1="1004" y1="156" x2="1082" y2="252"><animate attributeName="opacity" values="0.65;0.12;0.65" dur="7s" repeatCount="indefinite"/></line>
+    <line x1="1004" y1="156" x2="870" y2="84"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="8s" repeatCount="indefinite"/></line>
+    <line x1="870" y1="84" x2="906" y2="240"><animate attributeName="opacity" values="0.7;0.18;0.7" dur="6.2s" repeatCount="indefinite"/></line>
+  </g>
+
+  <g fill="#22D3EE" filter="url(#soft)">
+    <circle cx="70"   cy="86"  r="3"><animate attributeName="r" values="2.4;4.6;2.4" dur="4s"   repeatCount="indefinite"/></circle>
+    <circle cx="196"  cy="150" r="4.6"><animate attributeName="r" values="4;6.4;4"   dur="5s"   repeatCount="indefinite"/></circle>
+    <circle cx="118"  cy="248" r="2.6"><animate attributeName="r" values="2;4;2"     dur="6s"   repeatCount="indefinite"/></circle>
+    <circle cx="330"  cy="78"  r="3.4"><animate attributeName="r" values="2.6;5;2.6" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="300"  cy="236" r="2.8"><animate attributeName="r" values="2.2;4.4;2.2" dur="5.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1130" cy="90"  r="3"><animate attributeName="r" values="2.4;4.6;2.4" dur="5.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1004" cy="156" r="4.6"><animate attributeName="r" values="4;6.4;4"   dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1082" cy="252" r="2.6"><animate attributeName="r" values="2;4;2"     dur="6.4s" repeatCount="indefinite"/></circle>
+    <circle cx="870"  cy="84"  r="3.4"><animate attributeName="r" values="2.6;5;2.6" dur="5.8s" repeatCount="indefinite"/></circle>
+    <circle cx="906"  cy="240" r="2.8"><animate attributeName="r" values="2.2;4.4;2.2" dur="4.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- packets travelling the network -->
+  <circle r="3" fill="#A5F3FC" filter="url(#soft)">
+    <animateMotion dur="4.5s" repeatCount="indefinite" path="M70,86 L196,150 L330,78 L300,236"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3" fill="#A5F3FC" filter="url(#soft)">
+    <animateMotion dur="5.2s" begin="1.2s" repeatCount="indefinite" path="M1130,90 L1004,156 L870,84 L906,240"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5.2s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ===== name ===== -->
+  <text x="600" y="150" text-anchor="middle"
+        font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace"
+        font-size="60" font-weight="700" letter-spacing="7"
+        fill="url(#nameGrad)" filter="url(#soft)">KARTIK RAIYANI</text>
+
+  <!-- animated underline -->
+  <rect x="330" y="172" width="540" height="2" fill="url(#lineGrad)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- subtitle -->
+  <text x="600" y="210" text-anchor="middle"
+        font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace"
+        font-size="17" letter-spacing="4.5" fill="#7DD3FC" opacity="0.92">
+    SOFTWARE ENGINEER
+  </text>
+  <text x="600" y="243" text-anchor="middle"
+        font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace"
+        font-size="14.5" letter-spacing="2.6" fill="#64748B">
+    AI &amp; AGENTIC SYSTEMS · BACKEND · DISTRIBUTED
+  </text>
+
+  <!-- scanline sweep -->
+  <rect x="0" y="0" width="1200" height="2.5" fill="#22D3EE" opacity="0.16">
+    <animate attributeName="y" values="-10;330;-10" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- corner brackets -->
+  <g stroke="#22D3EE" stroke-width="1.8" fill="none" opacity="0.65">
+    <path d="M22,54 L22,22 L54,22"/>
+    <path d="M1178,54 L1178,22 L1146,22"/>
+    <path d="M22,266 L22,298 L54,298"/>
+    <path d="M1178,266 L1178,298 L1146,298"/>
+    <animate attributeName="opacity" values="0.35;0.85;0.35" dur="4s" repeatCount="indefinite"/>
+  </g>
+
+  <rect width="1200" height="320" fill="url(#vignette)"/>
+</svg>

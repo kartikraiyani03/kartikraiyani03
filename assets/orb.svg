@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="220" height="220" role="img" aria-label="">
+  <defs>
+    <radialGradient id="oCore" cx="48%" cy="42%" r="55%">
+      <stop offset="0%"   stop-color="#ECFEFF"/>
+      <stop offset="30%"  stop-color="#A5F3FC"/>
+      <stop offset="62%"  stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </radialGradient>
+
+    <linearGradient id="oRing" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#22D3EE" stop-opacity="0.95"/>
+      <stop offset="50%"  stop-color="#3B82F6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <radialGradient id="oHalo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#22D3EE" stop-opacity="0.30"/>
+      <stop offset="70%"  stop-color="#22D3EE" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="oGlow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="5.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- ambient halo -->
+  <circle cx="110" cy="110" r="105" fill="url(#oHalo)">
+    <animate attributeName="r" values="95;110;95" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <g filter="url(#oGlow)">
+    <!-- equatorial ring -->
+    <ellipse cx="110" cy="110" rx="96" ry="32" fill="none"
+             stroke="url(#oRing)" stroke-width="1.7" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate"
+                        from="0 110 110" to="360 110 110" dur="15s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- tilted ring -->
+    <ellipse cx="110" cy="110" rx="96" ry="32" fill="none"
+             stroke="url(#oRing)" stroke-width="1.3" opacity="0.5">
+      <animateTransform attributeName="transform" type="rotate"
+                        from="120 110 110" to="480 110 110" dur="21s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- dashed sphere ring -->
+    <circle cx="110" cy="110" r="78" fill="none" stroke="url(#oRing)"
+            stroke-width="1.1" opacity="0.45" stroke-dasharray="5 12">
+      <animateTransform attributeName="transform" type="rotate"
+                        from="360 110 110" to="0 110 110" dur="26s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- inner ring -->
+    <ellipse cx="110" cy="110" rx="56" ry="19" fill="none"
+             stroke="url(#oRing)" stroke-width="1.5" opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate"
+                        from="60 110 110" to="420 110 110" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- core -->
+  <circle cx="110" cy="110" r="28" fill="url(#oCore)" filter="url(#oGlow)">
+    <animate attributeName="r" values="26;32;26" dur="4.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.88;1;0.88" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- orbiting nodes -->
+  <circle r="5" fill="#ECFEFF" filter="url(#oGlow)">
+    <animateMotion dur="7s" repeatCount="indefinite"
+                   path="M110,110 m-96,0 a96,32 0 1,0 192,0 a96,32 0 1,0 -192,0"/>
+  </circle>
+  <circle r="3.4" fill="#7DD3FC" filter="url(#oGlow)">
+    <animateMotion dur="11s" begin="2s" repeatCount="indefinite"
+                   path="M110,110 m-78,0 a78,78 0 1,1 156,0 a78,78 0 1,1 -156,0"/>
+  </circle>
+  <circle r="2.6" fill="#A5F3FC" filter="url(#oGlow)">
+    <animateMotion dur="5.5s" begin="0.8s" repeatCount="indefinite"
+                   path="M110,110 m-56,0 a56,19 0 1,0 112,0 a56,19 0 1,0 -112,0"/>
+  </circle>
+</svg>
